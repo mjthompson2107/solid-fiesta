@@ -1,0 +1,15 @@
+C:\Users\mjtho\source\repos\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.exe
+C:\Users\mjtho\source\repos\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.csprojAssemblyReference.cache
+C:\Users\mjtho\source\repos\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\Users\mjtho\source\repos\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.AssemblyInfo.cs
+C:\Users\mjtho\source\repos\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.deps.json
+C:\Users\mjtho\source\repos\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.runtimeconfig.json
+C:\Users\mjtho\source\repos\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.runtimeconfig.dev.json
+C:\Users\mjtho\source\repos\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.dll
+C:\Users\mjtho\source\repos\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.pdb
+C:\Users\mjtho\source\repos\FootballTeamGenerator\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\mjtho\source\repos\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.csproj.CoreCompileInputs.cache
+C:\Users\mjtho\source\repos\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.csproj.CopyComplete
+C:\Users\mjtho\source\repos\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.dll
+C:\Users\mjtho\source\repos\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.pdb
+C:\Users\mjtho\source\repos\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.genruntimeconfig.cache

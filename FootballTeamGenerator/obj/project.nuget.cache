@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4hbVLThu6Ws2fLSgD5uRt+3utlKE9WTAPWC0mC/xADnv6iUCT0bf+cUsAM2BQW4ZuRnsGRxgk9PsLNsbjDg5lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Downloads\\FootballTeamGenerator\\FootballTeamGenerator\\FootballTeamGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\csvhelper\\15.0.5\\csvhelper.15.0.5.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
